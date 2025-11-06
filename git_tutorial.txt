@@ -1,2 +1,0 @@
-This is my first Git tutorial file.
-This is my second commit.
